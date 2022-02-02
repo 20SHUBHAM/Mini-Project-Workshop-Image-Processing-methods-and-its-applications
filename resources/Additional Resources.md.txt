@@ -1,0 +1,9 @@
+To look up documentations of openCV functions:
+
+https://opencv.org/
+
+Introduction to python for beginners:
+
+https://www.geeksforgeeks.org/python-programming-language/
+
+
