@@ -1,0 +1,6 @@
+#To run: pip install -r requirements.txt
+#-----
+
+numpy>=1.18.5
+opencv-python>=4.1.2
+pyautogui>=0.9.53
