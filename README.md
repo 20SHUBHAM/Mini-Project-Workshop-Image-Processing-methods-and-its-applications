@@ -11,5 +11,7 @@ To try the project on your system, you need to run aries.py, with the libraries 
 To install the libraries/dependencies: download the file requirements.txt. Then in a terminal, navigate to the location where the file is installed, using cd (path).
 
 
-Then, simply run: pip install -r requirements.txt.
+Then, simply run: 
+
+`pip install -r requirements.txt`
  
